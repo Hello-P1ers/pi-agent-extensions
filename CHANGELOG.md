@@ -6,6 +6,7 @@ All notable changes to this project are documented here. Release dates match the
 
 ### Fixed
 - Declared the Pi-hosted `typebox` package as a wildcard peer dependency instead of bundling a duplicate runtime copy.
+- Updated vulnerable transitive development dependencies; pinned Pi's `undici` dependency to the patched 8.10.2 release.
 
 ## [0.5.4] - 2026-08-22
 

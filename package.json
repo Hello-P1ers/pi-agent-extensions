@@ -85,5 +85,10 @@
   },
   "dependencies": {
     "acorn": "^8.16.0"
+  },
+  "overrides": {
+    "@earendil-works/pi-coding-agent": {
+      "undici": "8.10.2"
+    }
   }
 }
