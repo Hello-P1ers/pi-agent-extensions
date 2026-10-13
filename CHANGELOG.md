@@ -4,6 +4,9 @@ All notable changes to this project are documented here. Release dates match the
 
 ## [Unreleased]
 
+### Fixed
+- Declared the Pi-hosted `typebox` package as a wildcard peer dependency instead of bundling a duplicate runtime copy.
+
 ## [0.5.4] - 2026-08-22
 
 ### Fixed

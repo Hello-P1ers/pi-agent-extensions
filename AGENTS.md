@@ -52,6 +52,7 @@ extensions/
 
 ### Peer Dependencies (provided by Pi runtime)
 
+- `typebox` — Runtime schema validation
 - `@earendil-works/pi-coding-agent` — Extension API, session management
 - `@earendil-works/pi-ai` — LLM completion interface
 - `@earendil-works/pi-tui` — Terminal UI components (Editor, SelectList, Container, Border)
